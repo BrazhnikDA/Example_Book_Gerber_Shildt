@@ -1,0 +1,7 @@
+C:\Users\Дима\source\repos\ExampleFromTheBook\Chapter_2_first_program\bin\Debug\Chapter_2_first_program.exe.config
+C:\Users\Дима\source\repos\ExampleFromTheBook\Chapter_2_first_program\bin\Debug\Chapter_2_first_program.exe
+C:\Users\Дима\source\repos\ExampleFromTheBook\Chapter_2_first_program\bin\Debug\Chapter_2_first_program.pdb
+C:\Users\Дима\source\repos\ExampleFromTheBook\Chapter_2_first_program\obj\Debug\Chapter_2_first_program.csproj.CoreCompileInputs.cache
+C:\Users\Дима\source\repos\ExampleFromTheBook\Chapter_2_first_program\obj\Debug\Chapter_2_first_program.exe
+C:\Users\Дима\source\repos\ExampleFromTheBook\Chapter_2_first_program\obj\Debug\Chapter_2_first_program.pdb
+C:\Users\Дима\source\repos\ExampleFromTheBook\Chapter_2_first_program\obj\Debug\Chapter_2_first_program.csprojAssemblyReference.cache
