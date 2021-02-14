@@ -1,0 +1,7 @@
+C:\Users\Дима\source\repos\ExampleFromTheBook\Calculating_area_circle\bin\Debug\Calculating_area_circle.exe.config
+C:\Users\Дима\source\repos\ExampleFromTheBook\Calculating_area_circle\bin\Debug\Calculating_area_circle.exe
+C:\Users\Дима\source\repos\ExampleFromTheBook\Calculating_area_circle\bin\Debug\Calculating_area_circle.pdb
+C:\Users\Дима\source\repos\ExampleFromTheBook\Calculating_area_circle\obj\Debug\Calculating_area_circle.csproj.CoreCompileInputs.cache
+C:\Users\Дима\source\repos\ExampleFromTheBook\Calculating_area_circle\obj\Debug\Calculating_area_circle.exe
+C:\Users\Дима\source\repos\ExampleFromTheBook\Calculating_area_circle\obj\Debug\Calculating_area_circle.pdb
+C:\Users\Дима\source\repos\ExampleFromTheBook\Calculating_area_circle\obj\Debug\Calculating_area_circle.csprojAssemblyReference.cache
