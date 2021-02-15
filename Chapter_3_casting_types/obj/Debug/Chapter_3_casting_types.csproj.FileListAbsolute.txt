@@ -1,0 +1,7 @@
+C:\Users\Дима\source\repos\ExampleFromTheBook\Chapter_3_casting_types\bin\Debug\Chapter_3_casting_types.exe.config
+C:\Users\Дима\source\repos\ExampleFromTheBook\Chapter_3_casting_types\bin\Debug\Chapter_3_casting_types.exe
+C:\Users\Дима\source\repos\ExampleFromTheBook\Chapter_3_casting_types\bin\Debug\Chapter_3_casting_types.pdb
+C:\Users\Дима\source\repos\ExampleFromTheBook\Chapter_3_casting_types\obj\Debug\Chapter_3_casting_types.csprojAssemblyReference.cache
+C:\Users\Дима\source\repos\ExampleFromTheBook\Chapter_3_casting_types\obj\Debug\Chapter_3_casting_types.csproj.CoreCompileInputs.cache
+C:\Users\Дима\source\repos\ExampleFromTheBook\Chapter_3_casting_types\obj\Debug\Chapter_3_casting_types.exe
+C:\Users\Дима\source\repos\ExampleFromTheBook\Chapter_3_casting_types\obj\Debug\Chapter_3_casting_types.pdb
